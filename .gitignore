@@ -1,0 +1,10 @@
+# build output
+build/
+bin/
+*.o
+*.mod
+
+# python
+__pycache__/
+*.pyc
+.venv/
